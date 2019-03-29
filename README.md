@@ -1,4 +1,4 @@
-# Chord Strategy - Product Site
+# www - Chord Strategy - Product Site
 
 - AuthN : Authentication: Proof someone is who they say they _are_.
   - Provides _identity_
